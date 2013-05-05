@@ -9,5 +9,3 @@ chmod +x isatap
 
 ./isatap
 
-asd
---------
